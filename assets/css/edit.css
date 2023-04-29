@@ -1,0 +1,106 @@
+.card-pedit {
+    float: right;
+    font-size: 17px;
+    font-family: 'Tajawal', sans-serif;
+    color: #6E7079;
+    clear: both;
+    margin-right: -9px;
+    margin-bottom: 20px;
+}
+
+.imglogo {
+    margin-right: 30px;
+    color: #000000;
+    font-size: 16px;
+    font-family: 'Tajawal', sans-serif;
+    margin-top: -8px;
+    margin-right: 25px;
+}
+
+.namecompany {
+    margin-right: 30px;
+}
+
+.specialization {
+    margin-right: 48px;
+}
+
+.emailcompany {
+    margin-right: 9px;
+}
+
+.numbercompany {
+    margin-right: 38px;
+}
+
+.addresscompany {
+    margin-right: 62px;
+}
+
+.namecompany,
+.specialization,
+.emailcompany,
+.numbercompany,
+.addresscompany {
+    border: 0px;
+    background-color: #F4F5FA;
+    border-radius: 3px;
+}
+
+.aboutcompanyedit {
+    width: 100%;
+    margin-top: -30px;
+    margin-right: -0px;
+    text-align: center;
+    border: 0px;
+    background-color: #F4F5FA;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+@media only screen and (max-width: 990px)  {
+    .card-pedit{
+     font-size: 11px;
+    }
+  }
+  @media only screen and (max-width: 990px)  {
+    .namecompany {
+        margin-right: 25px;
+    }
+  }
+  @media only screen and (max-width: 990px)  {
+    .specialization {
+        margin-right: 35px;
+    }
+  }
+   @media only screen and (max-width: 990px)  {
+    .emailcompany {
+        margin-right: 10px;
+    }
+  }
+  @media only screen and (max-width: 990px)  {
+    .numbercompany {
+        margin-right: 28px;
+    }
+  }
+  @media only screen and (max-width: 990px)  {
+    .addresscompany {
+        margin-right: 44px;
+    }
+  }
+  /* @media only screen and (max-width: 990px)  {
+    .imglogo{
+    width: 40px;
+    }
+  } */
+  /* @media only screen and (max-width: 990px)  {
+.namecompany,
+.specialization,
+.emailcompany,
+.numbercompany,
+.addresscompany {
+   width: 30px;
+}
+  } */

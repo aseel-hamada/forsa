@@ -1,0 +1,157 @@
+
+  /* content */
+  #logo{
+    margin-top: 35px;
+  }
+  @media only screen and (max-width: 990px)  {
+    #logo{
+    margin-right: 113px;
+    margin-bottom: 20px;
+    }
+  }
+  .logout{
+    margin-top: 15px;
+  }
+  .nav-profile{
+    margin-top: 40px;
+    margin-bottom: -15px;
+  }
+  .nav-item{
+    font-family: 'Tajawal', sans-serif;
+  }
+  .div1{
+    margin-right: 40px;
+    margin-top: 14px; 
+    height: 360px;
+  }
+  @media only screen and (max-width: 990px)  {
+    .div1{
+      height: 300px;
+      width: 375px;
+    }
+  }
+  .card-p{
+    float: right;
+    font-size: 17px;
+    font-family: 'Tajawal', sans-serif;
+    color: #6E7079;
+    clear: both;
+    margin-right: -5px;
+    margin-bottom: 20px;
+    
+  }
+  @media only screen and (max-width: 990px)  {
+    .card-p{
+     font-size: 11px;
+    }
+  }
+  
+  .smalllogo{
+    /* margin-left: 180px; */
+    margin-top: -8px;
+    margin-right: 25px;
+  }
+  .card-span{
+    margin-right: 30px;
+    color: #000000;
+    font-size: 16px;
+    font-family: 'Tajawal', sans-serif;
+   
+  }
+  @media only screen and (max-width: 990px)  {
+    .card-span{
+     font-size: 11px;
+    }
+  }
+  .div2{
+    margin-right: 40px;
+    margin-top: 14px;
+    height: 570px;
+  }
+  @media only screen and (max-width: 990px)  {
+    .div2{
+      height: 370px;
+      width: 340px;
+    }
+  }
+  .photocompany{
+    width:501px;
+    height:572px;
+    margin-top: -40px;
+    margin-right: -40px;
+  }
+  @media only screen and (max-width: 990px)  {
+    .photocompany{
+      height: 370px;
+      width: 340px;
+    }
+  }
+  .edit{
+    width: 154px;
+    height: 44px;
+    background-color: #9A9CE9;
+    margin-right: 970px;
+    color: white;
+    font-size:20px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+  }
+  @media only screen and (max-width: 990px)  {
+    .edit{
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+  }
+  .descriptoon{
+    font-size: 15.5px;
+    color: #6E7079;
+    margin-top: -30px; 
+    margin-right: -20px;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+  }
+  @media only screen and (max-width: 990px)  {
+    .descriptoon{
+     font-size: 13px;
+    }
+  }
+  .div3{
+    margin-right: -120px;
+    margin-top: -185px;
+    height: 150px;
+    
+  }
+  @media only screen and (max-width: 990px)  {
+    .div3{
+      margin-right: -100px;
+      margin-top: 10px;
+      height: 150px;
+      width: 340px;
+      padding: 0;
+    }
+  }
+  .infocompany{
+    margin-left: 1065px;
+    margin-top:30px;
+    font-size: 20px; 
+    font-family:'Tajawal', sans-serif;
+  }
+  @media only screen and (max-width: 990px)  {
+    .infocompany{
+     font-size: 20px;
+     padding-right: 50px;
+    }
+  }
+  .aboutcompany{
+    margin-right:65px; 
+    margin-top:-220px;
+    font-size: 20px; 
+    font-family:'Tajawal', sans-serif;
+  }
+  @media only screen and (max-width: 990px)  {
+    .aboutcompany{
+      margin-right:65px; 
+      margin-top:-20px;
+      font-size: 20px; 
+    }
+  }
